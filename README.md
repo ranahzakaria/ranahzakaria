@@ -4,5 +4,5 @@ Data Science and AI major with a focus on extracting insights from data and appl
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranah2003)
 [![Gmail](https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](rana.abdallah@ejust.edu.eg)
 
-### Tech Stack🛠
+### Tech Stack🧠
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranahzakaria&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
